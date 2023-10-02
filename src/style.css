@@ -27,7 +27,7 @@ body {
     align-items: center;
     justify-content: space-between;
     background: url(./background.jpeg);
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    box-shadow: 10px 10px 20px rgba(255, 255, 255);
 }
 .logo {
     font-family: 'MyFont';
@@ -81,7 +81,7 @@ body {
 }
 .homeContent h2 {
     font-family: inherit;
-    color: #a8a29e;
+    color: #e7e5e4;
     margin-bottom: 0;
     font-size: 1em;
 }
@@ -99,8 +99,8 @@ body {
 }
 .homeContent button {
     background: none;
-    color: #a8a29e;
-    border: 1px solid #a8a29e;
+    color: #e7e5e4;
+    border: 1px solid #e7e5e4;
     padding: 16px 32px;
     border-radius: 6px;
     font-family: inherit;
@@ -125,11 +125,11 @@ body {
 }
 
 .container1 p {
-    color: #a8a29e;
+    color: #e7e5e4;
 }
 
 .container1 hr {
-    color: #a8a29e;
+    color: #e7e5e4;
     
 }
 
@@ -150,7 +150,7 @@ body {
     text-align: center;
 }
 .div1 p {
-    color: #a8a29e;
+    color: #e7e5e4;
 }
 
 .div2 {
@@ -172,7 +172,7 @@ body {
     margin-top: 0;
     padding-top: 0;
     margin-bottom: 60px;
-    color: #a8a29e;
+    color: #e7e5e4;
 }
 
 .div22 form {
@@ -191,14 +191,14 @@ body {
 .div22 textarea,
 .div22 input[type="submit"] {
     background: none;
-    border: 1px solid #a8a29e;
+    border: 1px solid #e7e5e4;
     padding: 12px 24px;
     font-size: 1em;
     font-family: inherit;
     color: white;
 }
 .div22 input[type="submit"] {
-    color: #a8a29e;
+    color: #e7e5e4;
     cursor: pointer;
 }
 .div22 input[type="submit"]:hover {
